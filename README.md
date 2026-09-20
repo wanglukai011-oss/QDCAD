@@ -1,2 +1,1 @@
-# CoSAD
-CoSAD: Community-Driven Subgraph Anomaly Detection in Heterophilic Attributed Networks
+QDCAD: Query-driven Community Anomaly Detection in Heterophilic Attributed Networks
